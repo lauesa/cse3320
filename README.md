@@ -1,2 +1,1 @@
-"# cse3320" 
-"# cse3320" 
+Use folders for respective projects. 
